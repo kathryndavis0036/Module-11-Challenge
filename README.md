@@ -65,3 +65,7 @@ The script:
   - Estimates the length of a Martian year in terrestrial days.
 - Visualizes the results using Matplotlib.
 - Exports the DataFrame to a CSV file.
+
+## Analysis
+
+There appears to be twenty-four months on Mars, given the seasonal paterns. For example, it takes about two years to reach the highest and lowest temperatures. The coldest days appear to get down to roughly -85 degrees celcius and the hottest days are roughly about -65 degrees celcius. The highest atmospheric month appears to be month 9. 
